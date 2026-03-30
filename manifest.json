@@ -1,20 +1,9 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
+  "name": "LoginFastStorePixel",
+  "vendor": "demostoreb2c",
   "version": "0.0.1",
-  "title": "CHANGEME",
+  "title": "LoginFastStorePixel",
   "description": "CHANGEME",
-  "billingOptions": {
-    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
-    "support": {
-      "url": "https://support.vtex.com/hc/requests"
-    },
-    "free": true,
-    "type": "free",
-    "availableCountries": [
-      "*"
-    ]
-  },
   "builders": {
     "react": "3.x",
     "store": "0.x",
@@ -25,7 +14,7 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "LoginFastStorePixel",
     "type": "object",
     "properties": {
       "gtmId": {
