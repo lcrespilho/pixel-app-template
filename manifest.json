@@ -1,7 +1,7 @@
 {
   "name": "my-pixel-app",
   "vendor": "rocky",
-  "version": "2.0.0-beta.0",
+  "version": "2.1.0-beta.0",
   "title": "my-pixel-app",
   "description": "CHANGEME",
   "builders": {
