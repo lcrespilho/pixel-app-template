@@ -1,8 +1,8 @@
 {
-  "name": "MyPixelApp",
+  "name": "my-pixel-app",
   "vendor": "rocky",
   "version": "2.0.0-beta.0",
-  "title": "MyPixelApp",
+  "title": "my-pixel-app",
   "description": "CHANGEME",
   "builders": {
     "react": "3.x",
@@ -14,7 +14,7 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "MyPixelApp",
+    "title": "my-pixel-app",
     "type": "object",
     "properties": {
       "gtmId": {
